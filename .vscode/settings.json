@@ -1,0 +1,26 @@
+{
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.tabWidth": 2,
+
+  "[xml]": {
+    "editor.tabSize": 2,
+    "editor.formatOnSave": false
+  },
+
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "[csharp]": {
+    "editor.defaultFormatter": "ms-dotnettools.csharp"
+  },
+
+  "files.associations": {
+    "*.json": "jsonc"
+  },
+
+  "editor.rulers": [110]
+}
